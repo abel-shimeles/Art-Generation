@@ -46,6 +46,6 @@ style_image =  np.array(Image.open("my_style.jpg").resize((img_size, img_size)))
 
 If you don't have a very good computational power in your machine you can decrease the number of epoches and increase the learning rate at the cost of the output. But if you have an even better computational power then you can increase the number of epoches and decrease the learning rate to get even better results.
 
-# Output
+### Output
 
 The pre-generated images from my implementation can be found in the output directory.

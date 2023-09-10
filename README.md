@@ -6,7 +6,7 @@ Neural Style Transfer (NST) is one of the most interesting optimization techniqu
 
 In this repository, Louvre museum in Paris (content image C) was combined with the impressionist style of Claude Monet (style image S) to generate the following image:
 
-<img src="images/louvre_generated.png" style="width:750px;height:200px;">
+<img src="images/louvre_generated.png" style="width:750px;height:300px;">
 
 Neural Style Transfer (NST) uses a previously trained convolutional network, and builds on top of that. 
 

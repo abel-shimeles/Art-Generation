@@ -15,7 +15,7 @@ This repository will be using the eponymously named VGG network from the [origin
 ## Setup
 1. Clone this repository
 ``` shell
-git clone https://github.com/abel-shimeles/Art-Generation
+git clone https://github.com/abel-shimeles/Art-Generation.git
 cd Art-Generation
 ```
 2. Download [pretrained model](https://drive.google.com/file/d/1-2aHu1D0JpHMfSVytbb4VzlERtXcX38u/view) from Google Drive since transfer learning is used. Then extract the downloaded file and paste it in the root folder of the cloned repository
